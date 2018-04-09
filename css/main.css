@@ -80,5 +80,5 @@ ul.posts li {
     overflow-y: auto;
 }
 
-.dropdown :hover {background-color: #ddd}
+.dropdown a:hover {background-color: #ddd}
 .show {display:block;}
