@@ -60,7 +60,7 @@ ul.posts li {
 }
 
 /* Dropdown Content (Hidden by Default) */
-.dropdown-content {
+.dropdown-content a {
     display: none;
     position: absolute;
     background-color: #f1f1f1;
