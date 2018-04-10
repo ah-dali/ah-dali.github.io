@@ -40,6 +40,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 20px;
 }
 p {
     font-size: 1.5em;
@@ -47,13 +48,10 @@ p {
     color: #333;
 }
 
-.bs-component {
-  padding: 50px; 
-}
 
 .jumbotron {
-  border-style: solid 50px;
-  border-color: lightgreen;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
   background-color: lightgreen;
 }
 
