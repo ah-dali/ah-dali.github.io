@@ -68,18 +68,6 @@ p {
     color: white;
 }
 
-li {
-    float: right;
-}
-
-li a, {
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
 
 .jumbotron {
   padding: 2rem 1rem;
