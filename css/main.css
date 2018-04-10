@@ -25,19 +25,11 @@ p {
     color: white;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
 li {
-    float: left;
+    float: right;
 }
 
-li a, #myNavbar {
+li a, {
     display: inline-block;
     color: white;
     text-align: center;
@@ -45,35 +37,7 @@ li a, #myNavbar {
     text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
-    background-color: lightblue;
-}
 
-li.dropdown {
-    display: inline-block;
-}
-
-#navig {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
-
-#navig a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-
-#navig a:hover {background-color: #f1f1f1}
-
-#navig:hover .dropdown-content {
-    display: block;
 }
 
 .jumbotron {
