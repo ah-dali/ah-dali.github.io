@@ -49,16 +49,15 @@ p {
 
 .jumbotron {
   border-style: solid;
-  border-color: yellow;
-  background-color: yellow;\
-  padding: 100x;
+  border-color: light green;
+  background-color: light green;
 }
 
 /* Dropdown Button */
 .dropbtn {
     background-color: #3498DB;
     color: white;
-    padding: 16px;
+    padding: 50px;
     font-size: 16px;
     border: none;
     cursor: pointer;
