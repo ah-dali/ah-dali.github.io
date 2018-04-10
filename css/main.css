@@ -19,14 +19,14 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-.navbar-header {
-    border-bottom-style: 5px solid red;
+.navbar navbar-expand-lg fixed-top navbar-dark bg-primary {
+    border-bottom: 5px solid red;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     colour: red;
     padding: 0px;
     font-weight: bold;
 }
-.nav-item {
+.collapse navbar-collapse {
     display: inline;
     position: right;
 }
