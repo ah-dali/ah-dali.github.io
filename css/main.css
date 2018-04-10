@@ -50,7 +50,8 @@ p {
 .jumbotron {
   border-style: solid;
   border-color: lightblue;
-  background-color: lightblue;
+  background-color: lightblue;\
+  padding: 50x;
 }
 
 /* Dropdown Button */
