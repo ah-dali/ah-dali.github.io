@@ -47,6 +47,10 @@ p {
     color: #333;
 }
 
+.bs-component {
+  padding: 50px; 
+}
+
 .jumbotron {
   border-style: solid 50px;
   border-color: lightgreen;
