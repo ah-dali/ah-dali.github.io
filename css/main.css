@@ -49,9 +49,9 @@ p {
 
 .jumbotron {
   border-style: solid;
-  border-color: lightblue;
-  background-color: lightblue;\
-  padding: 50x;
+  border-color: yellow;
+  background-color: yellow;\
+  padding: 100x;
 }
 
 /* Dropdown Button */
