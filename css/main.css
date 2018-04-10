@@ -1,14 +1,22 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+    background-color: lightgrey;
+}
+
 .topnav {
+  margin: 0 0 0 0;
   overflow: hidden;
   background-color: black;
+  width: 100%;
 }
 
 .topnav a {
   float: left;
   color: #f2f2f2;
-  text-align: center;
+  text-align: right;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .topnav a:hover {
@@ -19,12 +27,6 @@
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
-}
-
-body {
-    margin: 60px auto;
-    width: 70%;
-    background-color: lightgrey;
 }
 
 a {
