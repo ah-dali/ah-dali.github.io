@@ -52,7 +52,7 @@ p {
 }
 
 /* Dropdown Content (Hidden by Default) */
-.dropdown-content a {
+.dropdown-content {
     display: none;
     position: absolute;
     background-color: #f1f1f1;
@@ -67,7 +67,7 @@ p {
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    max-height: 200px;
+    max-height: 250px;
     overflow-x: hidden;
     overflow-y: auto;
 }
