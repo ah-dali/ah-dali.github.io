@@ -68,8 +68,7 @@ p {
     text-decoration: none;
     display: block;
     max-height: 250px;
-    overflow-x: hidden;
-    overflow-y: auto;
+    overflow: auto;
 }
 
 .dropdown a:hover {background-color: #ddd}
