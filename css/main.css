@@ -19,16 +19,16 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul {
+.navbar-header {
+    border-bottom-style: 5px solid red;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     colour: red;
     padding: 0px;
-    list-style: none;
     font-weight: bold;
 }
-nav ul li {
+.nav-item {
     display: inline;
-    margin-right: 20px;
+    position: right;
 }
 a {
     text-decoration: none;
