@@ -92,7 +92,7 @@ p {
     text-decoration: none;
     display: block;
     max-height: 250px;
-    overflow-style: scrollbar;
+    overflow: scroll;
 }
 
 .dropdown a:hover {background-color: #ddd}
