@@ -47,6 +47,12 @@ p {
     color: #333;
 }
 
+.bs-component {
+  border-style: solid;
+  border-color: lightblue;
+  background-color: lightblue;
+}
+
 /* Dropdown Button */
 .dropbtn {
     background-color: #3498DB;
