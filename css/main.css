@@ -76,10 +76,9 @@ p {
 select {
     background-color: #cecad1;
     padding: 50px; 
-    font-size: 20px;
+    font-size: 30px;
     border-radius: 10px;
-    margin: auto
-    
+    align: center;  
 }
 
 img {
