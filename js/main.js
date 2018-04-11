@@ -1,7 +1,7 @@
 var imageList = Array();
 for (var i = 1; i <= 10; i++) {
     imageList[i] = new Image(70, 70);
-    imageList[i].src = "ah-dali.github.io/jpg/";
+    imageList[i].src = "https://github.com/ah-dali/ah-dali.github.io/tree/master/jpg";
 }
 
 function switchImage() {
