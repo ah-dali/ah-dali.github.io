@@ -1,7 +1,7 @@
 body {
     margin: auto;
     width: 100%;
-    background-color: #3a3a3a;
+    background-color: #eff7f0;
 }
 
 .topnav {
@@ -32,35 +32,36 @@ body {
 }
 
 h1 {
-    margin: 50px;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #f2efef;
+    padding: 20px;
 }
 
 h2 {
-    margin: 50px;
     font-size: 2em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    color: #eae8e8;
-    background-color: grey;
+    color: #eff7f0;
+    background-color: black;
+    padding: 20px;
 }
 
 p {
-    margin: 50px;
+    margin: 100px;
     font-size: 1.5em;
     line-height: 1.4em;
-    color: white;
+    color: black;
 }
 
 #box {
     font-size: 2em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    color: #eae8e8;
+    color: #eff7f0;
+    background-color: none;
 }   
 
 .jumbotron {
-  margin: 70px;
+  margin: 150px;
   border-radius: 25px;
   padding: 2rem 1rem;
   margin-bottom: 2rem;
@@ -69,6 +70,7 @@ p {
 
 /* Dropdown Button */
 .dropbtn {
+    margin: 50px;
     background-color: #bdadc6;
     color: white;
     padding: 16px;
