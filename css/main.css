@@ -76,9 +76,10 @@ p {
 select {
     background-color: #cecad1;
     padding: 20px; 
-    border-radius: 4px;
+    border-radius: 10px;
 }
 
 img {
-    padding: 40px
+    padding: 50px
+    border-radius: 20px
 }
