@@ -3,4 +3,4 @@ function switchImage() {
     img.src = "https://github.com/ah-dali/ah-dali.github.io/edit/master/jpg";
     return false;
 }
-document.getElementById("pickArtist").onchange = setImage;
+document.getElementById("pickArtist").onchange = switchImage;
