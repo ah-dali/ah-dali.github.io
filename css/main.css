@@ -1,7 +1,7 @@
 body {
     margin: auto;
     width: 100%;
-    background-color: #eff7f0;
+    background-color:  #f2ffe6;
 }
 
 .topnav {
@@ -53,7 +53,6 @@ h2 {
 
 #mixer {
     display: block;
-    right: 10px;
 }
 
 #chart {
@@ -62,13 +61,13 @@ h2 {
     
 #player {
     display: block;
-    left: 10px;
 }
 
 p {
     margin-left: 100px;
     margin-right: 100px;
     font-size: 1.0em;
+    font-family: Arial;
     line-height: 1.4em;
     color: black;
 }
