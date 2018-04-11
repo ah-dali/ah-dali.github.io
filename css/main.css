@@ -51,18 +51,6 @@ h2 {
     position: center;
 }
 
-#mixer {
-    display: block;
-}
-
-#chart {
-    display: block;
-}
-    
-#player {
-    display: block;
-}
-
 p {
     margin-left: 100px;
     margin-right: 100px;
@@ -108,8 +96,7 @@ select {
 }
 
 img {
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: auto;
+    margin-right: auto;
     display: block;
-    border-color: #bad88f;
 }
