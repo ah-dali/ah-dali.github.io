@@ -85,14 +85,15 @@ p {
 
 select {
     background-color: #cecad1;
-    padding: 30px; 
-    font-size: 20px;
+    padding: 25px; 
+    font-size: 18px;
     border-radius: 10px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 img {
-    margin: 40px;
+    margin-left: 250px;
+    margin-right: 250px;
     display: block;
 }
