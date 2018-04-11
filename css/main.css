@@ -66,7 +66,8 @@ p {
 }   
 
 .jumbotron {
-  margin: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
   border-radius: 25px;
   padding: 2rem 1rem;
   margin-bottom: 2rem;
@@ -78,8 +79,8 @@ select {
     padding: 30px; 
     font-size: 20px;
     border-radius: 10px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 img {
