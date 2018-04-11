@@ -17,7 +17,7 @@ body {
   color: #f2f2f2;
   text-align: right;
   text-decoration: none;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif'
+  font-family:'Helvetica';
   font-size: 25px; 
 }
 
@@ -34,14 +34,15 @@ body {
 
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica';
     color: black;
     padding: 15px;
+    position: center;
 }
 
 h2 {
     font-size: 2em;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Helvetica';
     color: #eff7f0;
     background-color: black;
     padding: 15px;
@@ -57,7 +58,7 @@ p {
 
 #box {
     font-size: 2em;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Helvetica';
     color: #eff7f0;
 }   
 
@@ -73,4 +74,9 @@ select {
     background-color: #dbc9ea;
     padding: 20px; 
     border-radius: 4px;
+}
+
+img {
+    width: 70px;
+    length: 70px;
 }
