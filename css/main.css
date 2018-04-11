@@ -52,10 +52,16 @@ h2 {
 }
 
 #mixer {
+    display: block;
     right: 10px;
 }
 
+#chart {
+    display: block;
+}
+    
 #player {
+    display: block;
     left: 10px;
 }
 
