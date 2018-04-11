@@ -16,6 +16,7 @@ body {
   text-align: right;
   text-decoration: none;
   font-size: 30px;
+  padding: 10px;
 }
 
 .topnav a:hover {
@@ -39,6 +40,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-color: lightgrey;
 }
 
 p {
