@@ -91,8 +91,8 @@ select {
     padding: 25px; 
     font-size: 18px;
     border-radius: 10px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: auto;
+    margin-right: auto;
     position: static;
 }
 
