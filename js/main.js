@@ -5,7 +5,5 @@ function switchImage() {
 }
 document.getElementById("pickArtist").onchange = switchImage;
 
-$('select').change(function(){
-  display($(this).children('option:selected').data('id'));
-});
+
     
