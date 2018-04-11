@@ -7,6 +7,7 @@ body {
 .topnav {
   overflow: hidden;
   background-color: black;
+  position: static;
   width: 100%;
 }
 
@@ -25,7 +26,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #3ac147;
   color: white;
 }
 
@@ -40,13 +41,13 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-color: #f2efef;
+    color: #f2efef;
 }
 
 h2 {
     font-size: 2em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    font-color: #eae8e8;
+    color: #eae8e8;
 }
 
 p {
@@ -57,14 +58,15 @@ p {
     
 
 .jumbotron {
+  border-radius: 25px;
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #4CAF50;
+  background-color: #3ac147;
 }
 
 /* Dropdown Button */
 .dropbtn {
-    background-color: #d7ccdd;
+    background-color: #bdadc6;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -74,7 +76,7 @@ p {
 
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
-    background-color: #bdadc6;
+    background-color: #d7ccdd;
     padding: 20px;
 }
 
