@@ -59,9 +59,8 @@ p {
     color: black;
 }
   
-.jumbotron {
-  margin-left: 150px;
-  margin-right: 150px;
+.card-mb3 {
+  align: right;
   border-radius: 10px;
   padding: 1rem;
   margin-bottom: 2rem;
