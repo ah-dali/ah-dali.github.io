@@ -58,15 +58,7 @@ p {
     line-height: 1.4em;
     color: black;
 }
-
-#box {
-    font-size: 1.8em;
-    font-family: 'Helvetica';
-    font-style: oblique;
-    color: #eff7f0;
-    background-color: #bad88f;
-}   
-
+  
 .jumbotron {
   margin-left: 150px;
   margin-right: 150px;
@@ -74,6 +66,21 @@ p {
   padding: 1rem;
   margin-bottom: 2rem;
   background-color: #bad88f;
+}
+
+#box {
+    font-size: 1.8em;
+    font-family: 'Helvetica';
+    font-style: oblique;
+    color: #eff7f0;
+    background-color: #bad88f;
+} 
+
+#choose {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 1.2em;
+    color: white;
 }
 
 select {
