@@ -51,6 +51,14 @@ h2 {
     position: center;
 }
 
+#mixer {
+    right: 10px;
+}
+
+#player {
+    left: 10px;
+}
+
 p {
     margin-left: 100px;
     margin-right: 100px;
