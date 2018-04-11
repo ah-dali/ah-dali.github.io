@@ -62,9 +62,9 @@ p {
 .jumbotron {
   margin-left: 150px;
   margin-right: 150px;
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   background-color: #bad88f;
 }
 
@@ -98,5 +98,5 @@ img {
     margin-left: 250px;
     margin-right: 250px;
     display: block;
-    border: none;
+    border-color: #bad88f;
 }
