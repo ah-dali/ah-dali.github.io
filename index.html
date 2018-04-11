@@ -11,42 +11,20 @@ title: My Project
 	<div class="bs-component">
 		<div class="jumbotron">
 			<h2 id="box">How happy (or sad) is your favourite artist?</h2>
-				<div class="dropdown">
-  					<button onclick="myFunction()" class="dropbtn">Pick an artist</button>
-  					<div id="myDropdown" class="dropdown-content">
-						<a href="1ad.jpg">Adele</a>
-						<a href="2bey.jpg">Beyonce</a>
-						<a href="3bm.jpg">Bruno Mars</a>
-						<a href="4">Camilla Cabello</a>
-						<a href="5">Cardi B</a>
-						<a href="6">Charlie Puth</a>
-						<a href="7">Childish Gambino</a>
-						<a href="8">Coldplay</a>
-						<a href="9">Daft Punk</a>
-						<a href="10">DNCE</a>
-						<a href="11">Drake</a>
-						<a href="12">Dua Lipa</a>
-						<a href="13">Ed Sheeran</a>
-						<a href="14">Hozier</a>
-						<a href="15">John Legend</a>
-						<a href="16">Justin Timberlake</a>
-						<a href="17">Katy Perry</a>
-						<a href="18">Kendrick Lamar</a>
-						<a href="19">Kesha</a>
-						<a href="20">Khalid</a>
-						<a href="21">Lana Del Rey</a>
-						<a href="22">Logic</a>
-						<a href="23">Macklemore & Ryan Lewis</a>
-						<a href="24">Pharrell Williams</a>
-						<a href="25">Rihanna</a>
-						<a href="26">Sam Smith</a>
-						<a href="27">Shawn Mendes</a>
-						<a href="28">Taylor Swift</a>
-						<a href="29">The Chainsmokers</a>
-						<a href="30">The Killers</a>
-						<a href="31">The Weeknd</a>
-					</div>
-  				</div>
+				<form method="" action="" id="myForm">Pick an artist
+  					<select id="pickArtist" onchange="switchImage();">
+						<option value="1">Adele</option>
+						<option value="2">Beyonce</option>
+						<option value="3">Bruno Mars</option>
+						<option value="4">Camilla Cabello</option>
+						<option value="5">Cardi B</option>
+						<option value="6">Charlie Puth</option>
+						<option value="7">Childish Gambino</option>
+						<option value="8">Coldplay</option>
+						<option value="9">Daft Punk</option>
+						<option value="10">DNCE</option>
+					</select>
+				</form>
 			</div>
 		</div>
 	<h2 id="old">The Good Old Days</h2>
