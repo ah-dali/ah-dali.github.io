@@ -75,7 +75,8 @@ p {
 
 select {
     background-color: #cecad1;
-    padding: 20px; 
+    padding: 50px; 
+    font-size: 16px;
     border-radius: 10px;
 }
 
