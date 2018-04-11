@@ -1,20 +1,10 @@
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
+var imageList = Array();
+for (var i = 1; i <= 10; i++) {
+    imageList[i] = new Image(70, 70);
+    imageList[i].src = "ah-dali.github.io/jpg/";
 }
 
-// Close the dropdown menu if the user clicks outside of it
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
-
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
+function switchImage() {
+    var selectedImage = document.myForm.switch.options[document.myForm.switch.selectedIndex].value;
+    document.myImage.src = imageList[selectedImage].src;
 }
