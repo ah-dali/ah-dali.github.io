@@ -1,6 +1,6 @@
 function switchImage() {
     var img = document.getElementById("image");
     img.src = this.value;
-    return false;
+    return true;
 }
 document.getElementById("pickArtist").onchange = switchImage;
