@@ -37,7 +37,7 @@ h1 {
     font-family:'Helvetica';
     color: black;
     padding: 15px;
-    position: center;
+    margins: 20px;
     font-style: oblique;
 }
 
