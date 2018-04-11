@@ -26,7 +26,7 @@ body {
 }
 
 .topnav a.active {
-  background-color: #3ac147;
+  background-color: #339b3d;
   color: white;
   text-decoration: none;
 }
@@ -64,7 +64,7 @@ p {
   border-radius: 25px;
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #3ac147;
+  background-color: #339b3d;
 }
 
 /* Dropdown Button */
