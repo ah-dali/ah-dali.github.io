@@ -79,7 +79,8 @@ p {
 .lead {
     margin-left: 50px;
     margin-right: 50px;
-    font-size: 1.2em;
+    font-size: 1.4em;
+    font-family: 'Arial';
     color: white;
 }
 
@@ -90,6 +91,7 @@ select {
     border-radius: 10px;
     margin-left: 250px;
     margin-right: 250px;
+    position: static;
 }
 
 img {
